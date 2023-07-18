@@ -87,11 +87,11 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 11/2021 - 11/2021 |
-| stepik.org/Старт Frontend.HTML-Academy                          | 12/2021 - 12/2021 |
+| freecodecamp.org/HTML и CSS                                     | 11/2021 - 11/2021 |
+| htmlacademy.ru/Старт Frontend.HTML-Academy                      | 12/2021 - 12/2021 |
 | stepik.org/Веб-разработка для начинающих: HTML и CSS            | 01/2022 - 01/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 01/2022 - 01/2022 |
+| freecodecamp.org/React                                          | 01/2022 - 01/2022 |
 | stepik.org/JavaScript для начинающих                            | 02/2022 - 02/2022 |
 | rs.school/Js Front-end. Stage 0                                 | 02/2022 - 04/2022 |
-| rs.school//Js Front-end. Stage 1                                 | 04/2022 - 07/2022 |
+| rs.school//Js Front-end. Stage 1                                | 04/2022 - 07/2022 |
 | it-incubator.io/Frontend developer                              | 06/2022 - 12/2022 |
