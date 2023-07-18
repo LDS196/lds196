@@ -15,12 +15,16 @@
 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@lds196-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lds196) [![Gmail Badge](https://img.shields.io/badge/-lihachevd87@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:lihachevd87@gmail.com)
+  
  ---
+ 
  ### 💼 Некоторые последние проекты:
    <a href="https://lds196.github.io/cards/" target="_blank">
       Flash Cards
     </a>
+    
   ---
+  
 ### 🤝 Социальные сети:
 
   <div id="badges">
