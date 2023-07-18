@@ -62,9 +62,9 @@
     </td>
   </tr>
 </table>
+
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lds196)
----
+
  ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
