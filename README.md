@@ -65,6 +65,12 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/lds196/badges/large)
+
+---
+
  ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
