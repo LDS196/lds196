@@ -13,9 +13,9 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: https://img.shields.io/badge/any_text-you_like-blue
+- :telescope: Завершил в 2022 курс по веб-разработке в <a href="https://it-incubator.io/">It-Incubator!</a>
 
-- :seedling: Завершил курсы по веб-разработке <a href="https://it-incubator.io/">It-Incubator!</a>
+- :seedling: Завершил курс по веб-разработке в <a href="https://it-incubator.io/">It-Incubator!</a> в 2022! 
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
