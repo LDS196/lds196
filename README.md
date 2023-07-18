@@ -19,13 +19,13 @@
  ---
  
  ### 💼 Некоторые последние проекты:
-👉 <a href="https://lds196.github.io/cards/" target="_blank">Flash Cards</a>🔺
-<a href="https://lds196.github.io/1-todolist/" target="_blank">Task Manager</a>🔻
-<a href="https://lds196.github.io/samurai-way/" target="_blank">Social Network</a>🔺
-<a href="https://lds196.github.io/new-pizza/" target="_blank">Mama Pizza</a>🔻
-<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/songbirds/" target="_blank">Song Birds</a>🔺
-<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/online-zoo/pages/main/index.html" target="_blank">Online Zoo</a>🔻
-<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/codejam/" target="_blank">Gem Pazzle</a>🔺
+👉 <a href="https://lds196.github.io/cards/" target="_blank">Flash Cards</a> 🔺
+<a href="https://lds196.github.io/1-todolist/" target="_blank">Task Manager</a> 🔻
+<a href="https://lds196.github.io/samurai-way/" target="_blank">Social Network</a> 🔺
+<a href="https://lds196.github.io/new-pizza/" target="_blank">Mama Pizza</a> 🔻
+<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/songbirds/" target="_blank">Song Birds</a> 🔺
+<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/online-zoo/pages/main/index.html" target="_blank">Online Zoo</a> 🔻
+<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/codejam/" target="_blank">Gem Pazzle</a> 🔺
     
   ---
   
