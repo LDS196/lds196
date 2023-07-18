@@ -15,7 +15,7 @@
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
-- :seedling: Завершил курсы по веб-разработке It-Incubator!![It-Incubator]([https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey](https://it-incubator.io/))
+- :seedling: Завершил курсы по веб-разработке It-Incubator!![It-Incubator Badge]([https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey](https://it-incubator.io/))
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
