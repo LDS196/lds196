@@ -15,7 +15,7 @@
 -https://img.shields.io/badge/any_text-you_like-blue
 - :telescope: 
 
-- :seedling: Завершил курсы по веб-разработке It-Incubator!(https://img.shields.io/badge/any_text-you_like-blue)
+- :seedling: Завершил курсы по веб-разработке It-Incubator![![](https://img.shields.io/badge/any_text-you_like-blue)
 
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
