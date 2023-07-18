@@ -19,7 +19,7 @@
  ---
  
  ### 💼 Некоторые последние проекты:
-   <a href="https://lds196.github.io/cards/" target="_blank">
+   - :seedling: <a href="https://lds196.github.io/cards/" target="_blank">
       Flash Cards
     </a>
     
