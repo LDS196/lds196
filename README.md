@@ -15,8 +15,8 @@
 
 - :telescope: https://img.shields.io/badge/any_text-you_like-blue
 
-- :seedling: Завершил курсы по веб-разработке It-Incubator!
-- [![](https://img.shields.io/badge/-It-Incubator-blue?style=flat&logoColor=white)](https://it-incubator.io/)
+- :seedling: Завершил курсы по веб-разработке It-Incubator!<a href="https://it-incubator.io/">It-Incubator</a>
+
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@lds196-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lds196) [![Gmail Badge](https://img.shields.io/badge/-lihachevd87@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:lihachevd87@gmail.com)
