@@ -12,7 +12,7 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
+-https://img.shields.io/badge/any_text-you_like-blue
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
 - :seedling: Завершил курсы по веб-разработке It-Incubator!![It-Incubator Badge]([https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey](https://it-incubator.io/))
