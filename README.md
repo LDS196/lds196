@@ -85,7 +85,7 @@
 ![codewars](https://www.codewars.com/users/lds196/badges/large)
 
 ---
-
+<!--
  ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
@@ -98,3 +98,4 @@
 | rs.school/Js Front-end. Stage 0                                 | 02/2022 - 04/2022 |
 | rs.school//Js Front-end. Stage 1                                | 04/2022 - 07/2022 |
 | it-incubator.io/Frontend developer                              | 06/2022 - 12/2022 |
+--!>
