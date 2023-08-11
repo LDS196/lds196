@@ -19,7 +19,8 @@
  ---
  
  ### 💼 Некоторые последние проекты:
-👉 <a href="https://lds196.github.io/cards/" target="_blank">Flash Cards</a> 🔺
+👉 <a href="https://test-slider-eosin.vercel.app/" target="_blank">Slider</a> 🔺
+<a href="https://lds196.github.io/cards/" target="_blank">Flash Cards</a> 🔺
 <a href="https://lds196.github.io/1-todolist/" target="_blank">Task Manager</a> 🔻
 <a href="https://lds196.github.io/samurai-way/" target="_blank">Social Network</a> 🔺
 <a href="https://lds196.github.io/new-pizza/" target="_blank">Mama Pizza</a> 🔻
