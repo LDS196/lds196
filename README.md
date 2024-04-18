@@ -18,8 +18,7 @@
  ---
  
  ### 💼 Некоторые последние проекты:
-👉 <a href="https://maps-yandex.vercel.app/" target="_blank">YandexMap</a> 🔺
-<a href="https://madsoft-test.vercel.app/" target="_blank">Quiz-test</a> 🔺
+👉 <a href="https://madsoft-test.vercel.app/" target="_blank">Quiz-test</a> 🔺
 <a href="https://test-slider-eosin.vercel.app/" target="_blank">Slider</a> 🔺
 <a href="https://asteroids-app-eta.vercel.app/" target="_blank">Asteroids-App</a> 🔺
 <a href="https://lds196.github.io/cards/" target="_blank">Flash Cards</a> 🔺
@@ -27,7 +26,8 @@
 <a href="https://lds196.github.io/samurai-way/" target="_blank">Social Network</a> 🔺
 <a href="https://lds196.github.io/new-pizza/" target="_blank">Mama Pizza</a> 🔻
 
-👉 <a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/songbirds/" target="_blank">Song Birds</a> 🔺
+👉 <a href="https://maps-yandex.vercel.app/" target="_blank">YandexMap</a> 🔺
+<a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/songbirds/" target="_blank">Song Birds</a> 🔺
 <a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/online-zoo/pages/main/index.html" target="_blank">Online Zoo</a> 🔻
 <a href="https://test-placeholder.vercel.app/" target="_blank">Posts</a> 🔺
 <a href="https://rolling-scopes-school.github.io/lds196-JSFE2022Q3/codejam/" target="_blank">Gem Pazzle</a> 🔺
