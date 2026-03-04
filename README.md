@@ -16,10 +16,10 @@
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@lds196-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lds196) [![Gmail Badge](https://img.shields.io/badge/-lihachevd87@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:lihachevd87@gmail.com)
   
  ---
- 
+ <!--
  ### 💼 Некоторые последние проекты:
 👉 <a href="https://madsoft-test.vercel.app/" target="_blank">Quiz-test</a> 🔺
-<a href="https://test-slider-eosin.vercel.app/" target="_blank">Slider</a> 🔺
+//<a href="https://test-slider-eosin.vercel.app/" target="_blank">Slider</a> 🔺
 <a href="https://asteroids-app-eta.vercel.app/" target="_blank">Asteroids-App</a> 🔺
 <a href="https://lds196.github.io/cards/" target="_blank">Flash Cards</a> 🔺
 <a href="https://lds196.github.io/1-todolist/" target="_blank">Task Manager</a> 🔻
@@ -34,7 +34,7 @@
 <a href="https://lds196.github.io/brands/" target="_blank">Brands</a> 🔺
     
   ---
-  
+  -->
 ### 🤝 Социальные сети:
 
   <div id="badges">
